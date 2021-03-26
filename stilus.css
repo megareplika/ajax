@@ -1,0 +1,19 @@
+
+main
+{
+    max-width: 800px;
+    margin: auto;
+}
+
+#terulet2 table tr:nth-child(odd){
+    background-color: burlywood;
+}
+#terulet2 table tr, #terulet2 table td
+{
+    border: 1px solid black;
+}
+#terulet2 table
+{
+    border-collapse: collapse;
+    width: 100%;
+}
